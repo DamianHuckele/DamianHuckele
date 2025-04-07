@@ -1,11 +1,40 @@
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=3382ca&center=true&vCenter=true&width=800&lines=Hey..+I'm+DamianHuckele;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=3382CA&center=true&vCenter=true&width=800&lines=Hey..+I'm+DamianHuckele;Welcome+to+my+GitHub!;Have+a+look+around+🚀" alt="Typing SVG"/>
+  </h1>
 </div>
 
+<br />
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" alt"Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
 </div>
+
+---
+
+### 👨‍💻 About Me
+
+Hi! I'm Damian, a passionate developer who loves working with backend tech, building cool stuff, and always learning something new.  
+Whether it's Java, Python scripts, or dabbling with some front-end, I'm all about clean code and practical solutions.
+
+---
+
+### 🛠️ Projects & Interests
+
+- 💡 Currently learning: DevOps & cloud basics  
+- 🔒 Cybersecurity enthusiast  
+- ⚙️ Working on tools, automation, and backend logic  
+- 🧪 Always up for experimenting with new tech!
+
+---
+
+### 📫 Let's Connect
+
+- 💬 Feel free to reach out — I'm always happy to chat or collaborate!
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House

@@ -11,23 +11,23 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi! I'm Damian, a passionate developer who loves working with backend tech, building cool stuff, and always learning something new.  
+Hi! I'm Damian, a student who loves working with backend tech, building cool stuff, and always learning something new.  
 Whether it's Java, Python scripts, or dabbling with some front-end, I'm all about clean code and practical solutions.
 
 ---
 
 ### 🛠️ Projects & Interests
 
-- 💡 Currently learning: DevOps & cloud basics  
 - 🔒 Cybersecurity enthusiast  
-- ⚙️ Working on tools, automation, and backend logic  
-- 🧪 Always up for experimenting with new tech!
+- ⚙️ Working on tools, automation, and data science  
 
 ---
 

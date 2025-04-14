@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R Badge" />
   <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff" alt="Scratch Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS3 Badge"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="Microsoft SQL Server Badge"/>

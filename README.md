@@ -10,6 +10,12 @@
 <p align="center">
   
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+<p align="center">
+  
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java, js, kotlin, py, r" />
   </a>
 </p>

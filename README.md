@@ -6,9 +6,9 @@
 
 <br />
 
-<h3>Programming Languages</h3>
+
 <p align="center">
-  
+  <h3>Programming Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,kotlin,py,r" />
   </a>

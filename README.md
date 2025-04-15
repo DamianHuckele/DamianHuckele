@@ -6,15 +6,15 @@
 
 <br />
 
-
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <h3>Programming Languages</h3>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,kotlin,py,r" />
   </a>
 </p>
 
-<h3>Web Development</h3>
+<h3 align="center">Web Development</h3>
 <p align="center">
   
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h3>Databases</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
   
   <a href="https://skillicons.dev">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<h3>Repositories</h3>
+<h3 align="center">Repositories</h3>
 <p align="center">
   
   <a href="https://skillicons.dev">
